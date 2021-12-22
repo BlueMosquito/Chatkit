@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chatkit</string>
+    <string name="do_not_click_the_buttons">Do not click the buttons!</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+</resources>
